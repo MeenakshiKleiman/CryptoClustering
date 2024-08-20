@@ -33,3 +33,7 @@ This project focuses on clustering various cryptocurrencies based on their marke
 - PCA visualization provided a clearer understanding of the relationships between different cryptocurrencies.
 
 
+![Elbow curve original](https://github.com/user-attachments/assets/dae02e9a-3685-40fa-85b8-5a44b65af6a2)
+![Elbow Curve Using PCA Data](https://github.com/user-attachments/assets/1d6b8482-26fc-4522-96b8-da20e50392b6)
+![scatter_plot_pca](https://github.com/user-attachments/assets/42c9ff24-f816-4e4a-aad7-c35fb16b0bbe)
+![scatter_plot](https://github.com/user-attachments/assets/11f9be53-f347-45d9-9c16-42a1b2e1f185)
